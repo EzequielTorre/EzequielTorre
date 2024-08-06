@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi [Ezequiel Torres][website] there 👋
 
+[<img srs="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">][website]
 
-**EzequielTorre/EzequielTorre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ♥ CODING
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />[yt]
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning programation
+- 👯 I’m looking to collaborate on whatever
+- 🤔 I’m looking for help with whatever you can
+- 💬 Ask me about How am I today?
+- 📫 How to reach me: [Ezequiel Torres][email]
+- 😄 Pronouns: Cordob@
+- ⚡ Fun fact: I am learning to program and studying English from a prison.
 
+<!-- links -->
+[website]: https://www.linkedin.com/in/ezequiel-torres-671094283/
+[email]: ezequiel.torres0682@gmail.com
+[yt]: https://www.youtube.com/chanel/UC9tcfsScui3S70hp_wC_EPw?sub_confirmation=1
