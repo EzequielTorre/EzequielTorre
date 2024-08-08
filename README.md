@@ -3,9 +3,8 @@
 [<img srs="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">][website]
 
 ### ♥ CODING
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />[yt]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning programation
 - 👯 I’m looking to collaborate on whatever
