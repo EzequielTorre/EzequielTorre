@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on whatever
 - 🤔 I’m looking for help with whatever you can
 - 💬 Ask me about How am I today?
-- 📫 How to reach me: [Ezequiel Torres][email]
+- 📫 How to reach me: ezequiel.torres0682@gmail.com
 - 😄 Pronouns: Cordob@
 - ⚡ Fun fact: I am learning to program and studying English from a prison.
 
