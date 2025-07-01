@@ -1,4 +1,4 @@
-## Hi [Ezequiel Torres][website] there 👋
+## Hi I´m [Ezequiel Torres][website] there 👋
 
 [<img srs="https://s8.gifyu.com/images/ezgif.com-resize-1.gif">][website]
 
